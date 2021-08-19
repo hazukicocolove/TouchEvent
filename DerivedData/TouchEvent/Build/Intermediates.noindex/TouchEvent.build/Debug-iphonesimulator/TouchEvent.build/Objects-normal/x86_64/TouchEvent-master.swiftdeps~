@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "d65e882bcc465a6f09038717784c76a7"
+build_time: [1629374861, 34769000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/TouchEvent/TouchEvent/ViewController.swift": [1629374860, 893123459]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TouchEvent/TouchEvent/AppDelegate.swift": [1629363452, 856588336]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TouchEvent/TouchEvent/SceneDelegate.swift": [1629363452, 860860752]

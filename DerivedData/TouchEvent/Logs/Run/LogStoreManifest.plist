@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>276D1C39-5B6C-4876-BFCF-C0691C7230BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>276D1C39-5B6C-4876-BFCF-C0691C7230BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651067668.89588904</real>
+			<key>timeStoppedRecording</key>
+			<real>651068617.44366896</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>276D1C39-5B6C-4876-BFCF-C0691C7230BC</string>
+		</dict>
+		<key>2E19B336-0250-4478-8ADF-6402DFCE29D4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2E19B336-0250-4478-8ADF-6402DFCE29D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651069013.660182</real>
+			<key>timeStoppedRecording</key>
+			<real>651069153.71002603</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>2E19B336-0250-4478-8ADF-6402DFCE29D4</string>
+		</dict>
+		<key>58EC8937-DCB7-4273-BE61-AC7A94173394</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>58EC8937-DCB7-4273-BE61-AC7A94173394.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651068987.92461896</real>
+			<key>timeStoppedRecording</key>
+			<real>651069000.71608698</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>58EC8937-DCB7-4273-BE61-AC7A94173394</string>
+		</dict>
+		<key>7BB1BA07-EF75-47FB-8FB5-95A20D5D3DFD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7BB1BA07-EF75-47FB-8FB5-95A20D5D3DFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651069154.25186503</real>
+			<key>timeStoppedRecording</key>
+			<real>651069210.89313197</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>7BB1BA07-EF75-47FB-8FB5-95A20D5D3DFD</string>
+		</dict>
+		<key>7FE81734-11E2-47B4-B328-3054BB308310</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FE81734-11E2-47B4-B328-3054BB308310.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651068882.19558799</real>
+			<key>timeStoppedRecording</key>
+			<real>651068987.38475895</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>7FE81734-11E2-47B4-B328-3054BB308310</string>
+		</dict>
+		<key>92792C97-2B65-475E-ACBA-97F91942B5BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>92792C97-2B65-475E-ACBA-97F91942B5BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651069210.77243602</real>
+			<key>timeStoppedRecording</key>
+			<real>651069285.709216</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>92792C97-2B65-475E-ACBA-97F91942B5BB</string>
+		</dict>
+		<key>B11C25D9-7B14-4F4F-813A-4BB3A5B367C4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B11C25D9-7B14-4F4F-813A-4BB3A5B367C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651068688.19474494</real>
+			<key>timeStoppedRecording</key>
+			<real>651068878.08179402</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>B11C25D9-7B14-4F4F-813A-4BB3A5B367C4</string>
+		</dict>
+		<key>DA8082D1-7477-4CAC-B201-171B137927AB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA8082D1-7477-4CAC-B201-171B137927AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TouchEvent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TouchEvent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TouchEvent</string>
+			<key>timeStartedRecording</key>
+			<real>651068618.78047204</real>
+			<key>timeStoppedRecording</key>
+			<real>651068687.87510002</real>
+			<key>title</key>
+			<string>Run TouchEvent</string>
+			<key>uniqueIdentifier</key>
+			<string>DA8082D1-7477-4CAC-B201-171B137927AB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
